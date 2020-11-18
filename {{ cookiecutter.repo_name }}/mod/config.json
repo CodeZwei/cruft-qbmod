@@ -1,0 +1,16 @@
+{
+  "id": "{{ cookiecutter.mod_id }}",
+  "name": "{{ cookiecutter.mod_name}}",
+  "author": {
+    "name": "{{ cookiecutter.github_username }}",
+    "url": "https://github.com/{{ cookiecutter.github_username }}"
+  },
+  "type": "community",
+  "short_description": "{{ cookiecutter.short_description }}",
+  "long_description": "{{ cookiecutter.long_description }}",
+  "version": "{{ cookiecutter.version }}",
+  "api": "1",
+  "dependencies": [],
+  "script": "mod.js",
+  "thumbnails": []
+}
