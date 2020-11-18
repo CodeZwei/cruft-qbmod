@@ -1,0 +1,22 @@
+
+# Changelog (Queens Brothel Mod Template)
+All notable changes to Queens Brothel cruft template will be documented in this file.
+
+The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
+and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
+
+## [Unreleased]
+- N/a
+
+## [1.0.0] - 2020-10-30
+### Added
+- Added default configurations for all tools:
+- [Yarn](https://yarnpkg.com/) - Package Manager of choice for node modules
+- [ESLint](https://eslint.org/) - Pluggable lint for JavaScript/TypeScript
+- [clang-format](https://clang.llvm.org/) - Code Formatting library
+- [GitHub Actions](https://github.com/features/actions) - CI Pipelines hosted by GitHub
+- [Keep-a-Changelog](https://keepachangelog.com/en/1.0.0/) - Guide for maintaining a useful, readable Changelog.
+
+[Unreleased]: https://github.com/CodeZwei/cruft-qbmod/compare/v1.1.1...HEAD
+[1.0.0]: https://github.com/CodeZwei/cruft-qbmod/compare/v0.0.0...v1.0.0
+[0.0.0]: https://github.com/CodeZwei/cruft-qbmod/releases/tag/v0.0.0
